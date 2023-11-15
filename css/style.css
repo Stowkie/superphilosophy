@@ -7,7 +7,7 @@ html {
     background: url(images/supermario.png) repeat-x 0 100% fixed,
                 url(images/cloud.png) no-repeat fixed,
                 url(images/cloud.png) no-repeat fixed,
-                linear-gradient(to top, #5080b1, #004e8c) fixed;
+                linear-gradient(to top, #29bae4, #ee76ad) fixed;
     animation: city 120s linear infinite;
     -webkit-animation: city 120s linear infinite;
 	margin-bottom: 100px;
@@ -66,16 +66,16 @@ h3 {margin: 0;}
 .rounded5 {border-radius: 5px;}
 
 .grayFont {color: #fff;}
-.blueBackground {background: rgba(178,178,178,0.0); color: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.5);}
-.whiteBackground {background: rgba(178,178,178,0.0); color: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.5);}
+.blueBackground {background: rgba(222, 147, 252, 0.74); color: #fff; box-shadow: 0 0 10px rgba(0,0,0,1);}
+.whiteBackground {background: rgba(222, 147, 252, 0.74); color: #fff; box-shadow: 0 0 10px rgba(0,0,0,1);}
 
 .navbar {
 	border: 0;
 	color: #fff;
 	border-radius: 0;
-	background-color: rgba(178,178,178,0.0); color: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.5);
-	box-shadow: 0 0 10px rgba(0,0,0,0.5);
-font-family: 'Prosto One', cursive;
+	background-color: rgba(222, 147, 252, 0.74); color: #fff; box-shadow: 0 0 10px rgba(0,0,0,1);
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+font-family: 'Lucida Sans';
 }
 
 .navbar li a {
@@ -110,32 +110,32 @@ ul.nav.navbar-nav a:hover {
 }
 
 .fa-facebook {
-  background: #3B5998;
+  background: #d06ffc;
   color: white;
 }
 
 .fa-twitter {
-  background: #55ACEE;
+  background: #d06ffc;
   color: white;
 }
 
 .fa-youtube {
-  background: #bb0000;
+  background: #d06ffc;
   color: white;
 }
 
 .fa-instagram {
-  background: #125688;
+  background: #d06ffc;
   color: white;
 }
 
 .fa-skype {
-  background: #00aff0;
+  background: #d06ffc;
   color: white;
 }
 
 .fa-vk {
-  background: #125688;
+  background: #d06ffc;
   color: white;
 }
 
@@ -144,7 +144,7 @@ ul.nav.navbar-nav a:hover {
 .b-top {z-index:2600;position:fixed;left:0;bottom:90px;width:34%;margin-left:50%;opacity: 0.5;filter:alpha(opacity=50);}
 .b-top:hover {opacity:1;filter:alpha(opacity=100);cursor:pointer;}
 .b-top-but {z-index:2600;position:absolute;display:block;left:56px;bottom:0;margin:0 0 0 100%;padding:32px 12px 4px;
-color:black;background:#D8D5C2 url("up.png") no-repeat 50% 11px;border-radius:7px;}
+color:black;background:#d06ffc url("up.png") no-repeat 50% 11px;border-radius:7px;}
 
 footer a, footer a:hover, .navbar a {
 	color: #fff;
@@ -160,7 +160,7 @@ footer {
 	position: absolute;
 	background: transparent;
 	
-	font-family: 'Neucha', cursive;
+	font-family: 'Lucida Sans', cursive;
 	color: #fff;
 }
 
