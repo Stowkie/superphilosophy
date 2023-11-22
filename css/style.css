@@ -75,7 +75,7 @@ h3 {margin: 0;}
 	border-radius: 0;
 	background-color: rgba(238, 118, 173, 0.74); color: #fff; box-shadow: 0 0 10px rgba(0,0,0,1);
 	box-shadow: 0 0 10px rgba(0,0,0,1);
-font-family: 'Lucida Sans';
+font-family: 'Calibri';
 }
 
 .navbar li a {
@@ -160,7 +160,7 @@ footer {
 	position: absolute;
 	background: transparent;
 	
-	font-family: 'Lucida Sans', cursive;
+	font-family: 'Calibri', cursive;
 	color: #fff;
 }
 
